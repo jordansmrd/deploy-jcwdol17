@@ -1,0 +1,5 @@
+1. buat repo github.com/xxx
+2. tentukan folder lalu "git clone github.com/xxxx"
+3. cd folder-project(nama repo)
+4. jika sudah cd, "npx create-next-app@latest . "
+5. "code . "
